@@ -215,7 +215,7 @@ weight = [0.5, -0.5]
 trainBot(100000)
 
 while True:
-    print('What do you want?')
+    print('\nWhat do you want?')
     print('1 - Start game player vs bot')
     print('2 - Start game bot vs bot')
     print('3 - Exit program')
